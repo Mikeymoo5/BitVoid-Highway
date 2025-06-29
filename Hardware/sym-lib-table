@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ25308")(type "KiCad")(uri "C:/Users/moodi/Downloads/ul_BQ25308RTER/KiCADv6/2025-06-29_00-36-17.kicad_sym")(options "")(descr "Battery Charger"))
+)
